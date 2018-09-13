@@ -4,6 +4,10 @@ require_relative '../lib/tic_tac_toe'
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome to Tic Tac Toe!"
 display_board(board)
+<<<<<<< HEAD
+=======
+puts "Please enter 1-9"
+>>>>>>> f8c019913edf4c3190b1126567eb0fbd1d197331
 play(board)
 
 
